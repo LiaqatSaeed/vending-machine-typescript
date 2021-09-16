@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "60bcf019286dceabc64a6853",
+    "name": "Coke",
+    "price": 20,
+    "image": "https://toppng.com/uploads/preview/coke-free-desktop-115385941292ptblrvxaz.png",
+    "stock": 200
+  },
+  {
+    "_id": "60bcf019286dceabc64a6854",
+    "name": "Pepsi",
+    "price": 25,
+    "image": "https://toppng.com/uploads/preview/pepsi-11538681711xinb1lyzap.png",
+    "stock": 200
+  },
+  {
+    "_id": "60bcf019286dceabc64a6855",
+    "name": "Dew",
+    "price": 30,
+    "image": "https://toppng.com/uploads/preview/mountain-dew-image-11526062217u23bq6aak8.png",
+    "stock": 125
+  },
+  {
+    "_id": "60cc2a974fffc824b6e402c4",
+    "name": "Pringles",
+    "price": 150,
+    "image": "https://toppng.com/uploads/preview/so-17-days-ago-i-embarked-on-this-adventure-of-a-sugarless-procter-gamble-pringles-115552456446nw1kq.png",
+    "stock": 66
+  },
+  {
+    "_id": "60cc2ae34fffc824b6e402c5",
+    "name": "Cheetos",
+    "price": 250,
+    "image": "https://toppng.com/uploads/preview/cheetos-crunchy-pack-11528350542zgx3kiibum.png",
+    "stock": 45
+  },
+  {
+    "_id": "60cc2b2b4fffc824b6e402c6",
+    "name": "Snicker",
+    "price": 80,
+    "image": "https://toppng.com/uploads/preview/snickers-png-11552942749d9brichapk.png",
+    "stock": 155
+  }
+]
